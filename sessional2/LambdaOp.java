@@ -4,7 +4,7 @@ interface MathOperation {
     public int operation(int a, int b);
 }
 
-public class LambdaOp implements MathOperation {
+public class LambdaOp {
     public static void main(String[] args) {
         MathOperation add = (a,b) -> a+b;
         MathOperation mult = (a,b) -> a*b;

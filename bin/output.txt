@@ -1,0 +1,4 @@
+Hello from input file.
+Copied using bytes.
+This is 2nd input file.
+It is merged with 1st file.
